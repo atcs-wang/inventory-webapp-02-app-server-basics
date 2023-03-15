@@ -1,7 +1,7 @@
 {
   "name": "inventory-webapp",
   "version": "1.0.0",
-  "description": "This tutorial follows after:\r [Part 01: Protyping our web pages](https://github.com/atcs-wang/inventory-webapp-01-static-prototypes)",
+  "description": "A simple homework management webapp",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
